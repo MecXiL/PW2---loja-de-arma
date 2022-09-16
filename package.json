@@ -1,0 +1,22 @@
+{
+  "name": "pw2---loja-de-arma",
+  "version": "1.0.0",
+  "description": "lojinha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MecXiL/PW2---loja-de-arma.git"
+  },
+  "author": "RAUL GUILHERME RODRIGUES DA SILVA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MecXiL/PW2---loja-de-arma/issues"
+  },
+  "homepage": "https://github.com/MecXiL/PW2---loja-de-arma#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
